@@ -1,2 +1,2 @@
 # Kompresi-Audio-Gambar
-UTS-PRAKTIKUM SISMUL
+LINK EKSEKUSI : http://winda-imageaudiocompression.kesug.com/
